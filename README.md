@@ -1,5 +1,3 @@
-<h1> # desafio-CI_T-2021-2</h1>
-
 # Faculdade Una (MG) - Unidade Cristiano Machado
 # Team
 | Nome  | RA  |e-mail | SEMESTRE  |
