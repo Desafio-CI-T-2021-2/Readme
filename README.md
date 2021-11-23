@@ -1,7 +1,7 @@
 <h1> # desafio-CI_T-2021-2</h1>
 
 # Team
-
+Faculdade Una (MG) - Unidade Cristiano Machado
 | Nome  | RA  |e-mail | SEMESTRE  |
 | :------------: | :------------: | :------------: | :------------: |
 |Tiago da Costa Santos |	320136810|	tiagocostasantos0013@gmail.com|	4°
