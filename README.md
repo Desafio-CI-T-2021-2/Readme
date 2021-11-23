@@ -1,4 +1,4 @@
-# Faculdade Una (MG) - Unidade Cristiano Machado
+# Faculdade UNA (MG) - Unidade Cristiano Machado
 # Team
 | Nome  | RA  |e-mail | SEMESTRE  |
 | :------------: | :------------: | :------------: | :------------: |
