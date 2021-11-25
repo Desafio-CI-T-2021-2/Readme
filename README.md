@@ -13,7 +13,8 @@
 
 | IDE            | Apache Netbeans IDE|
 | :------------: | :------------: |
-
-| Framework      | JUnit & Selenium  WebDriver          |
+| Linguagem      | JAVA |
+| :------------: | :------------: |
+| Framework      | JUnit & Selenium  WebDriver|
 | :------------: | :------------: |
  
