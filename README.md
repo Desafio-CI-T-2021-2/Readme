@@ -9,7 +9,8 @@
 |Laila Gabriele Maia Souza|	320136255|	 |	?º
 |Gustavo Tannus Magalhaes Souza |	320131493|	 |	?º
 
+# Tecnologias Utilizadas
 
 | IDE   | Apache Netbeans IDE |
-| :------------: | 
+
 
