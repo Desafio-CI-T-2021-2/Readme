@@ -11,11 +11,12 @@
 
 # Tecnologias Utilizadas
 
-| IDE            | Apache Netbeans IDE|
+
+| <h1>IDE</h1>            | Apache Netbeans IDE|
 | :------------: | :------------: |
 
 | Linguagem | JAVA |
-| :------------: || :------------: |
+| :------------: | :------------: |
 
 | Framework      | JUnit & Selenium  WebDriver|
 | :------------: | :------------: |
