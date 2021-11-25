@@ -9,15 +9,20 @@
 |Laila Gabriele Maia Souza|	320136255|	 |	?º
 |Gustavo Tannus Magalhaes Souza |	320131493|	 |	?º
 
+
 # Tecnologias Utilizadas
-
-
-| <h1>IDE</h1>            | Apache Netbeans IDE|
-| :------------: | :------------: |
-
-| Linguagem | JAVA |
-| :------------: | :------------: |
-
-| Framework      | JUnit & Selenium  WebDriver|
-| :------------: | :------------: |
  
+
+#### Linguagem
+
+- JAVA
+
+
+#### IDE
+
+- Apache Netbeans IDE
+ 
+
+#### Framework
+
+- JUnit & Selenium  WebDriver
