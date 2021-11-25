@@ -10,7 +10,8 @@
 |Gustavo Tannus Magalhaes Souza |	320131493|	 |	?º
 
 # Tecnologias Utilizadas
-| :------------: || :------------: |
+
 | IDE   | Apache Netbeans IDE |
+| :------------: | :------------: |
 
 
