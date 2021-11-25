@@ -8,3 +8,8 @@
 |Pedro Henrique Isidorio de Souza |	32013149|	   |	?°
 |Laila Gabriele Maia Souza|	320136255|	 |	?º
 |Gustavo Tannus Magalhaes Souza |	320131493|	 |	?º
+
+
+| Nome  | RA  |e-mail | SEMESTRE  |
+| :------------: | :------------: | :------------: | :------------: |
+|Tiago da Costa Santos |	320136810|	tiagocostasantos0013@gmail.com|	4°
