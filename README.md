@@ -11,9 +11,9 @@
 
 # Tecnologias Utilizadas
 
-| IDE   |     Apache Netbeans IDE      |
+| IDE            | Apache Netbeans IDE|
 | :------------: | :------------: |
 
-| Framework  | 
-| :------------: 
-| JUnit |
+| Framework      | JUnit          |
+| :------------: | :------------: |
+ 
