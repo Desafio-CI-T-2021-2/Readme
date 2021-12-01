@@ -16,13 +16,17 @@
 #### Linguagem
 
 - JAVA
+- Gherkin
 
 
 #### IDE
 
-- Apache Netbeans IDE
+- Apache Netbeans 
+-  Eclipse
  
 
 #### Framework
 
-- JUnit & Selenium  WebDriver
+- JUnit 
+- Selenium  
+- WebDriver
