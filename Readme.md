@@ -1,5 +1,5 @@
-# Faculdade UNA (MG) - Unidade Cristiano Machado
-# Team
+## Faculdade UNA (MG) - Unidade Cristiano Machado
+## Team
 | Nome  | RA  |e-mail | SEMESTRE  |
 | :------------: | :------------: | :------------: | :------------: |
 |Tiago da Costa Santos |	320136810|	tiagocostasantos0013@gmail.com|	4°
