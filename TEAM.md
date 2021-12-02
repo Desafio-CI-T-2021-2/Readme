@@ -10,23 +10,3 @@
 |Gustavo Tannus Magalhaes Souza |	320131493|	 |	?º
 
 
-# Tecnologias Utilizadas
- 
-
-#### Linguagem
-
-- JAVA
-- Gherkin
-
-
-#### IDE
-
-- Apache Netbeans 
--  Eclipse
- 
-
-#### Framework
-
-- JUnit 
-- Selenium  
-- WebDriver
