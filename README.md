@@ -5,7 +5,7 @@
 |Tiago da Costa Santos |	320136810|	tiagocostasantos0013@gmail.com|	4°
 |Matheus Silva Rodrigues Souza | 	 320258116| matheussilvar11@gmail.com	   |	 3º
 |Gabrielly Dias Pereira |	320141131|	 |	?°
-|Pedro Henrique Isidorio de Souza |	32013149|	pedroisidorio1@gmail.com   |	4°
+|Pedro Henrique Isidorio de Souza |	320131493|	pedroisidorio1@gmail.com   |	4°
 |Laila Gabriele Maia Souza|	320136255|	lailagabriele.maia@gmail.com |	4º
 |Gustavo Tannus Magalhaes Souza |	320131493|	 |	?º
 
