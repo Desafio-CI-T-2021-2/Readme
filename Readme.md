@@ -11,6 +11,10 @@
 
 
 
+## UC - Gestão e Qualidade de Softwarer</b>
 
+
+
+<b>Tutores:</b> Rafaela Moreira e Vanessa Santos 
   
 
