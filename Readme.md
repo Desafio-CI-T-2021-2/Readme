@@ -8,10 +8,10 @@
 |[Pedro Henrique Isidorio de Souza](https://github.com/PedroIsidorio29/ "link title")   |	320131493|	pedroisidorio1@gmail.com   |	4°
 |[Laila Gabriele Maia Souza](https://github.com/GabriellyDiasPereira/ "link title")|	320136255|	lailagabriele.maia@gmail.com |	4º
 |[Gustavo Tannus Magalhaes Souza](https://github.com/GabriellyDiasPereira/ "link title")   |	320131493| howjoejr@live.com  |	4º
+|[Miguel Mattias Henrique Soares](https://github.com/MiguelMattias/ "link title")   |    370139717| miguelmattiashs@gmail.com  |    4º
 
 
-
-## UC - Gestão e Qualidade de Softwarer</b>
+## UC - Gestão e Qualidade de Software</b>
 
 
 
